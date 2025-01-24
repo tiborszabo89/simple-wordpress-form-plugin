@@ -1,0 +1,10 @@
+/* admin.css */
+a.button-small {
+  background-color: #d63638;
+  color: #fff;
+  border-color: #d63638;
+}
+a.button-small:hover {
+  background-color: #a6282b;
+  border-color: #a6282b;
+}
